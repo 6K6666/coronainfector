@@ -1,6 +1,8 @@
 # coronainfector
 discord server nuker that deletes all channls spams new channels and spams webhooks
 
+btw i didnt make this stroketon did
+
 How to use:
 
 1. Download node.js here: https://nodejs.org/en/download/
