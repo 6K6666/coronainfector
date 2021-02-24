@@ -3,6 +3,8 @@ discord server nuker that deletes all channls spams new channels and spams webho
 
 btw i didnt make this stroketon did
 
+this is HEAVILY deprecated and i bet half of the shit in here doesnt work properly at all anymore and it also gets you API banned pretty fast as well (api bans are temporary but still, yikes)
+
 How to use:
 
 1. Download node.js here: https://nodejs.org/en/download/
